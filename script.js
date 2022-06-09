@@ -16,7 +16,7 @@ const allRecentOrdersArrays = [
     { name: "Dasaolu Daniel", price: "4,430", payment: "Paid", status: "pending" },
     { name: "Lionel Santos", price: "52", payment: "Paid", status: "return" },
     { name: "Mike Taison", price: "290", payment: "Paid", status: "pending" },
-    { name: "Taison Fury", price: "900", payment: "Paid", status: "delivered" },
+    { name: "Tyson Fury", price: "900", payment: "Paid", status: "delivered" },
     { name: "James Haaland", price: "200", payment: "Due", status: "inprogress" },
     { name: "Dasaolu Daniel", price: "4,430", payment: "Paid", status: "pending" },
     { name: "Lionel Santos", price: "52", payment: "Paid", status: "return" },
